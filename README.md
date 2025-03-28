@@ -15,3 +15,7 @@ These are the Power BI skills used for the project:
 **4.	Visuals**
 
 ### Dashboard Build
+
+### Data Model
+I created relationships among the tables using the … column and … column
+
