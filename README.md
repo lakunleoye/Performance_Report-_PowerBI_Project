@@ -16,12 +16,12 @@ These are the Power BI skills used for the project:
 
 ### Datasets used for the project
 The dataset used for the project contains
-On Power Query, I:
-•	Amend some column titles
-•	Remove duplicates from unique identifier columns
-•	Rename the tables (Plant_Hierachy was changed to Dim_product, Account to Dim_Account, and Plant_FACT to Fact_Sales).
-DAX
-To create the Dim_Date table, I used DAX.
+I used Power Query to:
+**1. Amend some column titles**
+**2. Remove duplicates from unique identifier columns**
+**3. Rename the tables (Plant_Hierachy was changed to Dim_product, Account to Dim_Account, and Plant_FACT to Fact_Sales).**
+
+I also used DAX to create the Dim_Date table.
 
 
 
