@@ -22,11 +22,15 @@ I used Power Query to:
 **3. Rename the tables (Plant_Hierachy was changed to Dim_product, Account to Dim_Account, and Plant_FACT to Fact_Sales).**
 
 I also used DAX to create the Dim_Date table.
+![DAX_4_Dim_Date](https://github.com/user-attachments/assets/41011ee8-5e17-4ef4-ab8e-464e030fed41)
 
 
 
 ### Dashboard Build
 
 ### Data Model
-I created relationships among the tables using the … column and … column
+I created a data model by integrating the Fact_Sales, Dim_Account, Dim_Sales, and Dim_Date tables into one model.
+I also create a relationships among the tables using the Account_id, Product_id, and Date columns.
+![Data Modelling](https://github.com/user-attachments/assets/8f14005c-8b85-4288-88e5-c91aed13aebc)
+
 
