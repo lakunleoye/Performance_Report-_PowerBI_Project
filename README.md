@@ -9,16 +9,23 @@ The report file is available here ![Performance Report.pbix](https://github.com/
 
 ### Skills used for the project
 These are the Power BI skills used for the project:
+
 **1.	Power Query (ETL)**
+
 **2.	DAX and Measures**
+
 **3.	Data Modelling**
+
 **4.	Visuals**
 
 ### Datasets used for the project
 The dataset used for the project contains
 I used Power Query to:
+
 **1. Amend some column titles**
+
 **2. Remove duplicates from unique identifier columns**
+
 **3. Rename the tables (Plant_Hierachy was changed to Dim_product, Account to Dim_Account, and Plant_FACT to Fact_Sales).**
 
 I also used DAX to create the Dim_Date table.
