@@ -2,7 +2,7 @@
 ![Performance_Report](https://github.com/lakunleoye/Performance_Report-_PowerBI_Project/blob/master/Performance%20Report.png)
 
 ## Introduction
-I created a condensed, dynamic performance report that utilises SWITCH measures and conditional formatting to identify any challenges and potential growth areas for a madeup company (Plant Co.) .This project used Plant Sales Data obtaned from ![Mo Chen's github](https://github.com/mochen862/power-bi-portfolio-project) contains information about sales & orders, locations, product details, and customer details.
+I created a condensed, dynamic performance report that utilises SWITCH measures and conditional formatting to identify any challenges and potential growth areas for a madeup Plant Company (Plant Co.) .This project used Plant Sales Data obtaned from ![Mo Chen's github](https://github.com/mochen862/power-bi-portfolio-project) contains information about sales & orders, locations, product details, and customer details.
 
 ### Report File
 The report file is available here ![Performance Report.pbix](https://github.com/lakunleoye/Performance_Report-_PowerBI_Project/blob/master/Performance%20Report.pbix)
@@ -19,7 +19,9 @@ These are the Power BI skills used for the project:
 **4.	Visuals**
 
 ### Datasets used for the project
-The dataset used for the project contains
+The dataset used for the project is an excel file comprised of 3 different tables on individual tabs. The first table, Product FACT, is a sales invoice with columns like Product_ID, sales, quantities, price, cost of goods (COGS), date of the invoice, and Account_ID. Second is the Account table, which has information for each specific acount. The columns include country code, account_ID, master_ID, long. and lat., country, postal code, street name, and street number. The third is the Plant Hierachy table. It has columns like product family, product group, product name, product size, and product type.
+
+
 I used Power Query to:
 
 **1. Amend some column titles**
@@ -34,7 +36,7 @@ I also used DAX to create the Dim_Date table.
 
 
 
-### Dashboard Build
+## Dashboard Build
 
 ### Data Model
 I created a data model by integrating the Fact_Sales, Dim_Account, Dim_Sales, and Dim_Date tables into one model.
