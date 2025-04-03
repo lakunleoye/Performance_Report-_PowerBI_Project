@@ -24,11 +24,21 @@ The dataset used for the project is an excel file comprised of 3 different table
 
 I used Power Query to:
 
-**1. Amend some column titles**
+**1. Extracted the three afore mentioned tables from the project's excel file which can be found ![here](https://github.com/lakunleoye/Performance_Report-_PowerBI_Project/blob/master/Plant_DTS.xls)**
 
-**2. Remove duplicates from unique identifier columns**
 
-**3. Rename the tables (Plant_Hierachy was changed to Dim_product, Account to Dim_Account, and Plant_FACT to Fact_Sales).**
+**2. I Tranformed the dataset by:**
+
+-Amending some column titles
+
+-Removing duplicates from unique identifier columns
+
+-Renaming the tables (Plant_Hierachy was changed to Dim_product, Account to Dim_Account, and Plant_FACT to Fact_Sales).
+
+
+**3. I loaded the transformed queries, setting the stage for subsequent analysis**
+
+
 
 I also used DAX to create the Dim_Date table.
 
