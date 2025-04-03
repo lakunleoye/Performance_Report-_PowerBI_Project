@@ -39,16 +39,20 @@ I used Power Query to:
 **3. I loaded the transformed queries, setting the stage for subsequent analysis**
 
 
+## Dashboard Build
 
-I also used DAX to create the Dim_Date table.
+### Data Modelling
+
+I first used **DAX** to create the Dim_Date table.
 
 ![DAX_4_Dim_Date](https://github.com/user-attachments/assets/41011ee8-5e17-4ef4-ab8e-464e030fed41)
 
 
+I also create a Slicer Value's table to be used for SWITCH measures.
 
-## Dashboard Build
+![Slicer_Values_Table](https://github.com/user-attachments/assets/fc637eb0-485a-4177-9a4c-63954cccc155)
 
-### Data Model
+
 I created a data model by integrating the Fact_Sales, Dim_Account, Dim_Sales, and Dim_Date tables into one model.
 
 I also create a relationships among the tables using the Account_id, Product_id, and Date columns.
