@@ -140,7 +140,8 @@ I used:
 ![Profititability_segmentation](https://github.com/user-attachments/assets/a2eea8ce-ca97-4449-973f-a49efd16dcd9)
 
    
-
+## Conclusion
+This dynamic performance report was created for Plant Company to identify challenges and potential areas for growth. It enables end-users to make informed decisions regarding their Sales and Gross Profit by time, location, and products, allowing them to concentrate on new strategies for market engagement.
 
 
 
