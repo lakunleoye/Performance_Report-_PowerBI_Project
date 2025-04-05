@@ -125,7 +125,7 @@ I used:
 ![Bottom_10_Country](https://github.com/user-attachments/assets/2b2fe2ad-a10a-4037-94ba-7b54bd8b74ca)
 
 
-4.	Waterfall chart for YTD vs PYTD comparison measures.
+4.	Waterfall chart for YTD vs PYTD comparison measures. You can drill down on the Month, Country, and Products.
 
 ![YTD_vs_PYTD_Waterfall](https://github.com/user-attachments/assets/3da325fa-5cf6-45af-9c5d-819f771811b9)
 
