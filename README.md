@@ -55,7 +55,7 @@ I also create a Slicer Value's table to be used for SWITCH measures.
 
 I created a data model by integrating the Fact_Sales, Dim_Account, Dim_Sales, and Dim_Date tables into one model.
 
-I also create a relationships among the tables using the Account_id, Product_id, and Date columns.
+I also create a relationships among the tables using unique identifiers like the Account_id, Product_id, and Date columns.
 
 ![Data Modelling](https://github.com/user-attachments/assets/8f14005c-8b85-4288-88e5-c91aed13aebc)
 
