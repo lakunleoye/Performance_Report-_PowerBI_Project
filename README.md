@@ -108,6 +108,39 @@ I used DAX to:
 
 ## Visuals
 
+I used:
+
+1.	Card(new) visual for the Header Metrics and applied Conditional Formatting.
+
+![Header Metrics](https://github.com/user-attachments/assets/58cc9aa1-e698-439a-9e37-e79e024a546f)
+
+
+2.	Slicers for Values (sales, quantity, and gross profit) and Years.
+
+![Slicers](https://github.com/user-attachments/assets/e8c07537-7422-4a4e-aa9b-103bb96b0405)
+
+
+3.	Treemap visuals to see which countries have experienced highest decline (bottom 10) when comparing YTD and PYTD.
+
+![Bottom_10_Country](https://github.com/user-attachments/assets/2b2fe2ad-a10a-4037-94ba-7b54bd8b74ca)
+
+
+4.	Waterfall chart for YTD vs PYTD comparison measures.
+
+![YTD_vs_PYTD_Waterfall](https://github.com/user-attachments/assets/3da325fa-5cf6-45af-9c5d-819f771811b9)
+
+
+5.	Line and Stack Column chart for the Values YTD (column) and PYTD (line), with Product Type as legend.
+
+![Line and Stack Column](https://github.com/user-attachments/assets/743db053-c0a8-48c1-8f9c-0cc53ed98cbb)
+
+
+6. Scattered chart for Gross Profit percent and SWITCH values to help segment the different accounts and gain insight into profitability. For example, focus can be placed on accounts that fall in the high-profitability, low-sales region to increase sales volume.
+
+![Profititability_segmentation](https://github.com/user-attachments/assets/a2eea8ce-ca97-4449-973f-a49efd16dcd9)
+
+   
+
 
 
 
