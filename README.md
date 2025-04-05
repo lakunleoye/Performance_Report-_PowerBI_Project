@@ -59,4 +59,56 @@ I also create a relationships among the tables using unique identifiers like the
 
 ![Data Modelling](https://github.com/user-attachments/assets/8f14005c-8b85-4288-88e5-c91aed13aebc)
 
+### DAX and Measures
+
+Build base measures (Gross Profit, Quantity, and Sales) that are needed for my SWITCH, "year till date" (YTD),and “previous year till date” (PYTD) measures.
+
+I used DAX to:
+
+1. Create base measures for Sales, Quantity, and Gross Profit.
+
+![Base_Measures_Sales](https://github.com/user-attachments/assets/69276249-86ef-4a5d-a09f-b1e138fa12a5)
+
+![Base_Measures_Quantity](https://github.com/user-attachments/assets/abaf0e34-b99f-4c86-85e7-4051b2a38ad1)
+
+![Base_Measures_GrossProfit](https://github.com/user-attachments/assets/8e665d34-bec4-43fc-8254-e9955738e01b)
+
+
+2.  Create YTD measures for Sales, Quantity, and Gross Profit.
+
+![YTD_Measures_Sales](https://github.com/user-attachments/assets/c29e57bb-fcbd-460e-940e-b434308883ee)
+
+![YTD_Measures_Quantity](https://github.com/user-attachments/assets/4ad2ad71-89e8-414e-b7cb-bf6914714645)
+
+![YTD_Measures_GrossProfit](https://github.com/user-attachments/assets/24403c2e-a14d-40fd-98a9-06c4fa0684ea)
+
+
+3. Create PYTD measures for Sales, Quantity, and Gross Profit.
+
+![PYTD_Measures_Sales](https://github.com/user-attachments/assets/e8cd54ca-5cb7-497e-b1de-c4b9885d97cc)
+
+![PYTD_Measures_Quantity](https://github.com/user-attachments/assets/d945ee78-5c28-4733-a5f6-c423b6125e64)
+
+![PYTD_Measures_GrossProfit](https://github.com/user-attachments/assets/f98b4bb5-e47a-4ef9-854e-71af0e99d626)
+
+
+4. Create SWITCH measures for YTD, PYTD, and the comparison of YTD and PYTD.
+
+![Switch_YTD_Measures](https://github.com/user-attachments/assets/d1c4b8a1-811e-4d32-bd9e-15d4c700146d)
+
+![Switch_PYTD_Measures](https://github.com/user-attachments/assets/ad894265-7ea4-4ca6-aea7-3db4399fb899)
+
+![Switch_YTDvsPYTD_Measures](https://github.com/user-attachments/assets/43ba16ee-a6e1-4232-965d-2b2ca7b14c77)
+
+
+
+
+
+
+
+
+
+
+
+
 
