@@ -48,7 +48,7 @@ I first used **DAX** to create the Dim_Date table.
 ![DAX_4_Dim_Date](https://github.com/user-attachments/assets/41011ee8-5e17-4ef4-ab8e-464e030fed41)
 
 
-I also create a Slicer Value's table to be used for SWITCH measures.
+I also create a Slicer Value's table to be used for SWITCH measures. The switch is among Gross Profit, Quantity, and Sales.
 
 ![Slicer_Values_Table](https://github.com/user-attachments/assets/fc637eb0-485a-4177-9a4c-63954cccc155)
 
