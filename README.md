@@ -12,9 +12,9 @@ These are the Power BI skills used for the project:
 
 **1.	Power Query (ETL)**
 
-**2.	DAX and Measures**
+**2.	Data Modelling**
 
-**3.	Data Modelling**
+**3.	DAX and Measures**
 
 **4.	Visuals**
 
@@ -22,6 +22,7 @@ These are the Power BI skills used for the project:
 The dataset used for the project is an excel file comprised of 3 different tables on individual tabs. The first table, Product FACT, is a sales invoice with columns like Product_ID, sales, quantities, price, cost of goods (COGS), date of the invoice, and Account_ID. Second is the Account table, which has information for each specific acount. The columns include country code, account_ID, master_ID, long. and lat., country, postal code, street name, and street number. The third is the Plant Hierachy table. It has columns like product family, product group, product name, product size, and product type.
 
 
+## Power Query (ETL)
 I used Power Query to:
 
 **1. Extracted the three afore mentioned tables from the project's excel file which can be found ![here](https://github.com/lakunleoye/Performance_Report-_PowerBI_Project/blob/master/Plant_DTS.xls)**
@@ -39,9 +40,7 @@ I used Power Query to:
 **3. I loaded the transformed queries, setting the stage for subsequent analysis**
 
 
-## Dashboard Build
-
-### Data Modelling
+## Data Modelling
 
 I first used **DAX** to create the Dim_Date table.
 
@@ -59,7 +58,7 @@ I also create a relationships among the tables using unique identifiers like the
 
 ![Data Modelling](https://github.com/user-attachments/assets/8f14005c-8b85-4288-88e5-c91aed13aebc)
 
-### DAX and Measures
+## DAX and Measures
 
 Build base measures (Gross Profit, Quantity, and Sales) that are needed for my SWITCH, "year till date" (YTD),and “previous year till date” (PYTD) measures.
 
@@ -100,6 +99,14 @@ I used DAX to:
 
 ![Switch_YTDvsPYTD_Measures](https://github.com/user-attachments/assets/43ba16ee-a6e1-4232-965d-2b2ca7b14c77)
 
+
+5. Create Gross Profit percent measures
+
+![GrossProfit_Percent](https://github.com/user-attachments/assets/1bc7f316-3bc2-479e-864e-e681bddaefcf)
+
+
+
+## Visuals
 
 
 
